@@ -1,0 +1,63 @@
+#header {
+  font-size: 30px;
+  font-family: "Dosis";
+  color: white;
+  background: rgb(41, 128, 185);
+
+
+  padding-right: 20px;
+  padding: 40px;
+  height: 80px;
+  line-height: 80px;
+}
+#home {
+  color:white;
+  text-decoration: none;
+}
+
+#section {
+  height: 400px;
+  color: red;
+}
+
+
+.headerButton{
+  float: right;
+  color: white;
+  text-decoration: none;
+  margin-left: 40px;
+  padding-left: 10px;
+  padding-right: 10px
+
+}
+.headerButton:hover {
+  background: rgb(52, 73, 94);
+}
+
+.blogPost {
+  margin-left: 20%;
+  margin-right: 20%;
+  background: lightgray;
+  text-align: center;
+  padding-bottom: 5px;
+
+  color: black;
+}
+
+.blogPost > h1 {
+  font-family: "Dosis";
+  font-weight: bold;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.blogPost > p{
+  font-size: 20px;
+  font-family: "Open Sans";
+  margin: 30px;
+}
+
+
+body{
+  padding: 0;
+  margin: 0;
+}
